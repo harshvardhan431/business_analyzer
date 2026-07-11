@@ -1,0 +1,11 @@
+flask
+flask-login
+flask-sqlalchemy
+flask-bcrypt
+google-generativeai
+chromadb
+pandas
+scikit-learn
+plotly          # for growth charts on dashboard
+python-dotenv
+pymupdf
